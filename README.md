@@ -1,4 +1,4 @@
-# NAM
+# Paper: A Non-convex Anti-noise Model for Anomaly Detection (NAM)
 # data: 
 Real-world datasets;
 
